@@ -1,1 +1,1 @@
-# Stock-Market-Prediction
+# Microsoft Stock Market Prediction
